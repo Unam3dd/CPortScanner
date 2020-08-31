@@ -1,5 +1,5 @@
 # CPortScanner
-### Simple fast port scanner write in C langage
+### Simple fast port scanner write in C language
 
 ## How to install
 ```sh
